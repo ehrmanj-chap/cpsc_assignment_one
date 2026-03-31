@@ -1,0 +1,136 @@
+product_id,product_name,average_reordered,low_reorder,high_reorder,off_product_name,image_url,match_score
+11,Peach Mango Juice,0.5673076923076923,0,1,Peach and mango juice,https://images.openfoodfacts.net/images/products/501/010/224/3736/front_en.5.400.jpg,0.8947368421052632
+34,Peanut Butter Cereal,0.6009791921664627,0,1,Peanut Butter Clusters,https://images.openfoodfacts.net/images/products/060/265/217/1826/front_en.58.400.jpg,0.8095238095238095
+41,Organic Sourdough Einkorn Crackers Rosemary,0.6530612244897959,0,1,"Crackers, Organic Einkorn Sourdough, Rosemary",https://images.openfoodfacts.net/images/products/081/542/101/2514/front_en.4.400.jpg,0.5909090909090909
+43,Organic Clementines,0.15384615384615385,1,0,Brassé clémentine,https://images.openfoodfacts.net/images/products/327/322/014/1236/front_fr.3.400.jpg,0.6666666666666666
+46,Raisin Cinnamon Bagels 5 count,0.7682119205298014,0,1,Cinnamon Raisin Bagel 6 Count,https://images.openfoodfacts.net/images/products/028/975/900/0008/front_en.3.400.jpg,0.711864406779661
+48,"School Glue, Washable, No Run",0.0,1,0,"Elmer's Washable, No Run School Glue",https://images.openfoodfacts.net/images/products/002/600/000/3049/front_en.6.400.jpg,0.5538461538461539
+70,Sweet Cooking Rice Seasoning,0.0967741935483871,1,0,Sweet Cooking Rice Seasoning,https://images.openfoodfacts.net/images/products/001/115/202/1409/front_en.5.400.jpg,1.0
+72,Organic Honeycrisp Apples,0.15384615384615385,1,0,Organic Honeycrisp apples,https://images.openfoodfacts.net/images/products/080/430/508/0350/front_en.10.400.jpg,1.0
+77,Coconut Chocolate Chip Energy Bar,0.6342281879194631,0,1,Coconut chocolate chip energy bar,https://images.openfoodfacts.net/images/products/072/225/216/0300/front_en.16.400.jpg,1.0
+95,Organic Rice Vinegar,0.1478292070326516,1,0,Organic Rice Vinegar,https://images.openfoodfacts.net/images/products/007/064/106/4129/front_en.5.400.jpg,1.0
+100,Peanut Butter & Strawberry Jam Sandwich,0.5606407322654462,0,1,Peanut Butter and Strawberry Jam Sandwich,https://images.openfoodfacts.net/images/products/086/000/610/3965/front_en.3.400.jpg,0.95
+102,Danish Butter Cookies,0.1891891891891892,1,0,Danish Butter Cookies,https://images.openfoodfacts.net/images/products/007/733/034/5583/front_de.18.400.jpg,1.0
+108,Organic Sprouted Barley Bread,0.6413793103448275,0,1,Ezekiel 4:9 Sprouted Flourless Grain Loaf,https://images.openfoodfacts.net/images/products/007/347/200/1202/front_en.126.400.jpg,0.4857142857142857
+116,English Muffins,0.6958017894012388,0,1,English Muffin,https://images.openfoodfacts.net/images/products/004/812/110/2081/front_en.86.400.jpg,0.9655172413793104
+120,Cauliflower Florettes,0.14285714285714285,1,0,Cauliflower florettes,https://images.openfoodfacts.net/images/products/004/122/056/5139/front_en.3.400.jpg,1.0
+122,Pomegranate Molasses,0.05555555555555555,1,0,Pomegranate molasses,https://images.openfoodfacts.net/images/products/502/922/300/8490/front_en.20.400.jpg,1.0
+123,Sherry Reserve Vinegar,0.06619385342789598,1,0,Reserve Sherry Vinegar,https://images.openfoodfacts.net/images/products/064/250/697/5507/front_en.8.400.jpg,0.6818181818181818
+128,Organic Wild Blueberries,0.5442238267148014,0,1,Organic Wild Blueberries,https://images.openfoodfacts.net/images/products/000/000/016/1411/front_en.10.400.jpg,1.0
+132,Yogurt Strawberry Pomegranate,0.6,0,1,Corner plant-based strawberry & pomegranate,https://images.openfoodfacts.net/images/products/402/550/027/4801/front_en.14.400.jpg,0.7222222222222222
+135,Dark Chocolate Ice Cream Topping,0.16666666666666666,1,0,Old fashioned dark chocolate ice cream and dessert topping,https://images.openfoodfacts.net/images/products/006/038/398/1358/front_fr.3.400.jpg,0.7111111111111111
+141,Restaurant Style Organic Chia & Quinoa Tortilla Chips,0.6455070074196207,0,1,Organic Chia & Quinoa Restaurant Style Tortilla Chips,https://images.openfoodfacts.net/images/products/089/044/400/0281/front_en.7.400.jpg,0.6792452830188679
+143,Organic Lemons,0.17391304347826086,1,0,Organic Lemon Curd Yoghurt,https://images.openfoodfacts.net/images/products/503/658/920/4121/front_en.23.400.jpg,0.65
+148,Nectarines,0.5665918825209055,0,1,Dry Peach & Nectarine,https://images.openfoodfacts.net/images/products/000/002/932/6273/front_en.3.400.jpg,0.5806451612903226
+155,Artisan Ciabatta,0.1694915254237288,1,0,Ciabatta,https://images.openfoodfacts.net/images/products/065/708/202/7021/front_en.8.400.jpg,0.6666666666666666
+156,Extra Spearmint Sugar-Free Gum,0.5603864734299517,0,1,Spearmint Sugar Free Gum,https://images.openfoodfacts.net/images/products/930/061/311/5452/front_en.3.400.jpg,0.8518518518518519
+162,Organic Mini Homestyle Waffles,0.6918072779020126,0,1,Organic mini homestyle waffles,https://images.openfoodfacts.net/images/products/004/122/054/5179/front_en.3.400.jpg,1.0
+163,Dressing Bleu Cheese,0.0,1,0,Bleu cheese,https://images.openfoodfacts.net/images/products/004/133/566/5151/front_en.15.400.jpg,0.7096774193548387
+166,Garlic Parmesan Pita Bread Chips,0.0,1,0,Stacys parmesan garlic herb pita chips,https://images.openfoodfacts.net/images/products/002/840/009/4498/front_en.17.400.jpg,0.6285714285714286
+169,Extra Sharp Cheddar Cheese,0.5412892914224827,0,1,Extra sharp cheddar cheese loaf,https://images.openfoodfacts.net/images/products/007/283/000/5555/front_en.5.400.jpg,0.9122807017543859
+175,T Bone Steak,0.16666666666666666,1,0,Roysters T Bone Steak,https://images.openfoodfacts.net/images/products/500/023/713/9752/front_en.3.400.jpg,0.7272727272727273
+176,Original Turkey,0.5966850828729282,0,1,Original Turkey Stick,https://images.openfoodfacts.net/images/products/085/658/400/4404/front_en.84.400.jpg,0.8333333333333334
+202,Spinach & Feta Pierogi,0.15384615384615385,1,0,Pierogi spinach and feta,https://images.openfoodfacts.net/images/products/086/505/300/0496/front_en.7.400.jpg,0.5652173913043478
+212,Organic Blue Corn Sea Salt Tortilla Chips,0.5429864253393665,0,1,Organic Tostitos Blue Corn Tortilla Chips With Sea Salt,https://images.openfoodfacts.net/images/products/002/840/058/9239/front_en.13.400.jpg,0.6666666666666666
+217,"String Cheese, Mozzarella",0.5528455284552846,0,1,String Cheese Part-Skim Mozzarella Cheese,https://images.openfoodfacts.net/images/products/007/874/226/7661/front_en.26.400.jpg,0.7272727272727273
+222,Honey Nut Oatmeal Squares,0.5714285714285714,0,1,OATMEAL SQUARES HONEY NUT,https://images.openfoodfacts.net/images/products/003/000/031/3282/front_en.15.400.jpg,0.6
+223,Kiwi Strawberry Sparkling Water,0.7520661157024794,0,1,Kiwi Strawberry Flavored Sparkling Water,https://images.openfoodfacts.net/images/products/001/657/191/0327/front_en.13.400.jpg,0.8732394366197183
+230,Vanilla Cream Soda,0.6190476190476191,0,1,Vanilla cream soda,https://images.openfoodfacts.net/images/products/085/775/500/4711/front_en.3.400.jpg,1.0
+237,Brambleberry Herbal Tea,0.54,0,1,Brambleberry Tea 13.8 Fluid Ounce Glass Bottle,https://images.openfoodfacts.net/images/products/079/452/290/4006/front_en.6.400.jpg,0.463768115942029
+242,Original Red Twists,0.6884057971014492,0,1,Red vines original red twists,https://images.openfoodfacts.net/images/products/004/136/411/3302/front_en.3.400.jpg,0.7916666666666666
+254,Honey Mustard,0.07936507936507936,1,0,Honey & Mustard Dressing,https://images.openfoodfacts.net/images/products/506/010/617/0033/front_en.3.400.jpg,0.7027027027027027
+257,Key Lime Soda,0.8181818181818182,0,1,Key lime soda,https://images.openfoodfacts.net/images/products/009/879/400/0528/front_fr.8.400.jpg,1.0
+260,Cantaloupe,0.6351882845188285,0,1,Cantaloupe,https://images.openfoodfacts.net/images/products/000/000/110/3618/front_en.4.400.jpg,1.0
+263,Red Food Color,0.040697674418604654,1,0,Red Onion & Chive Bagels,https://images.openfoodfacts.net/images/products/501/829/700/8055/front_en.32.400.jpg,0.47368421052631576
+275,Caramel Sauce,0.16783216783216784,1,0,Crème Caramel,https://images.openfoodfacts.net/images/products/304/532/051/8283/front_en.23.400.jpg,0.5384615384615384
+277,Diet Root Beer,0.6947645702996378,0,1,Diet root beer,https://images.openfoodfacts.net/images/products/007/800/005/3166/front_en.3.400.jpg,1.0
+303,"Candy, Original",0.07692307692307693,1,0,Pulparindo original,https://images.openfoodfacts.net/images/products/072/522/600/1005/front_en.12.400.jpg,0.7058823529411765
+311,Naturals Savory Turkey Breakfast Sausage,0.5569897710667316,0,1,Savory Turkey Breakfast Sausage,https://images.openfoodfacts.net/images/products/002/531/769/4001/front_en.60.400.jpg,0.8732394366197183
+334,Sparkling Raspberry Lemonade Water Beverage,0.5431654676258992,0,1,Zero cal sparkling water raspberry lemonade,https://images.openfoodfacts.net/images/products/063/671/160/6004/front_en.4.400.jpg,0.6511627906976745
+335,Blueberry Kombucha,0.7305699481865285,0,1,Blueberry lemonade kombucha,https://images.openfoodfacts.net/images/products/506/059/339/1126/front_en.4.400.jpg,0.8
+346,Sunflower Bread,0.0,1,0,Dark Rye & Sunflower Loaf,https://images.openfoodfacts.net/images/products/505/754/592/8806/front_en.16.400.jpg,0.55
+365,Cheerios Cereal,0.583397190293742,0,1,Cheerios Aveia,https://images.openfoodfacts.net/images/products/590/002/003/6988/front_pt.78.400.jpg,0.7586206896551724
+370,Chocolate Caramel Whey Protein Bar,0.0,1,0,Chocolate Caramel Flavour Whey Protein Bar,https://images.openfoodfacts.net/images/products/005/727/116/3026/front_en.7.400.jpg,0.8947368421052632
+379,Super Dry Beer,0.16666666666666666,1,0,Super Dry,https://images.openfoodfacts.net/images/products/506/000/641/0208/front_en.11.400.jpg,0.782608695652174
+390,Super Enzymes,0.2,1,0,Super Enzymes,https://images.openfoodfacts.net/images/products/073/373/902/9638/front_en.4.400.jpg,1.0
+398,Organic Hard Candy Blood Orange and Honey,0.17647058823529413,1,0,Organic hard candy blood orange and honey ounces,https://images.openfoodfacts.net/images/products/085/371/500/3060/front_en.5.400.jpg,0.9213483146067416
+406,Vanilla Almond Protein Bar,0.6140350877192983,0,1,Vanilla Almond Protein Bar,https://images.openfoodfacts.net/images/products/019/390/800/0774/front_en.8.400.jpg,1.0
+425,Sardines in Water Salt Added,0.6,0,1,Sardines in water • no salt added,https://images.openfoodfacts.net/images/products/326/367/000/3277/front_en.3.400.jpg,0.9180327868852459
+432,Vanilla Almond Breeze Almond Milk,0.7286891870050105,0,1,Almond Breeze almondmilk UNSWEETENED Vanilla,https://images.openfoodfacts.net/images/products/004/157/005/6189/front_en.83.400.jpg,0.6233766233766234
+445,Almond Honey Protein+ Bar,0.6065573770491803,0,1,rise Almond Honey,https://images.openfoodfacts.net/images/products/069/081/913/1080/front_en.28.400.jpg,0.5714285714285714
+449,Chips Ahoy! Chewy Cookies,0.5461689587426326,0,1,Chips Ahoy! Chewy,https://images.openfoodfacts.net/images/products/004/400/003/3392/front_en.25.400.jpg,0.8095238095238095
+453,Hummus Wrap,0.62,0,1,Falafel & Hummus Wrap,https://images.openfoodfacts.net/images/products/404/585/100/3035/front_fr.10.400.jpg,0.6875
+454,Sloppy Joe Sauce,0.0,1,0,Sloppy Joe Sauce,https://images.openfoodfacts.net/images/products/002/700/044/2128/front_en.45.400.jpg,1.0
+459,Honey Vanilla Greek Yogurt,0.6455696202531646,0,1,Honey Vanilla Greek Yogurt Style,https://images.openfoodfacts.net/images/products/007/835/557/0110/front_en.27.400.jpg,0.896551724137931
+463,Salt Free Seasoning,0.125,1,0,Salt Free Seasoning,https://images.openfoodfacts.net/images/products/001/390/050/0013/front_en.8.400.jpg,1.0
+471,Half 'n Half Lemonade Tea,0.5652173913043478,0,1,Half Tea & Half Lemonade,https://images.openfoodfacts.net/images/products/019/537/253/1556/front_en.9.400.jpg,0.7755102040816326
+481,Black Peppercorns,0.15496688741721854,1,0,Black peppercorn mill,https://images.openfoodfacts.net/images/products/000/002/004/6712/front_en.25.400.jpg,0.8421052631578947
+488,Organic Orange Turmeric Juice,0.6761904761904762,0,1,"orange, carrot & turmeric juice",https://images.openfoodfacts.net/images/products/007/789/046/2164/front_en.4.400.jpg,0.7
+490,Gin Gins Candy,0.08333333333333333,1,0,Original Chewy Ginger Candy,https://images.openfoodfacts.net/images/products/073/402/790/2053/front_fr.7.400.jpg,0.6341463414634146
+491,Pompelmo Water,0.18181818181818182,1,0,Pompelmo Sparkling Water,https://images.openfoodfacts.net/images/products/004/150/890/2076/front_en.43.400.jpg,0.7368421052631579
+506,Arrowroot Powder,0.18421052631578946,1,0,Arrowroot powder,https://images.openfoodfacts.net/images/products/005/944/310/1652/front_fr.8.400.jpg,1.0
+516,American Cheese Slices,0.54759967453214,0,1,Singles american cheese slices,https://images.openfoodfacts.net/images/products/002/100/063/3609/front_en.3.400.jpg,0.8461538461538461
+517,French Rolls,0.545016077170418,0,1,French sub roll,https://images.openfoodfacts.net/images/products/004/125/016/6009/front_en.10.400.jpg,0.8148148148148148
+519,Antioxidant Infusions Brasilia Blueberry,0.6789087093389297,0,1,Antioxidant Infusion Brasilia Blueberry,https://images.openfoodfacts.net/images/products/081/369/402/5965/front_en.3.400.jpg,0.9873417721518988
+530,7UP,0.6779661016949152,0,1,7up,https://images.openfoodfacts.net/images/products/611/125/242/0226/front_fr.4.400.jpg,1.0
+536,Belgian Waffles,0.5389221556886228,0,1,Belgian waffle,https://images.openfoodfacts.net/images/products/506/086/870/0066/front_en.8.400.jpg,0.9655172413793104
+554,Turkey Chili,0.7266355140186916,0,1,Turkey Chili With Beans,https://images.openfoodfacts.net/images/products/000/000/047/9363/front_en.7.400.jpg,0.6857142857142857
+571,Thin & Crispy Crust Pepperoni Pizza,0.5692307692307692,0,1,Thin & Crispy Crust Pepperoni Pizza,https://images.openfoodfacts.net/images/products/007/218/063/3224/front_en.13.400.jpg,1.0
+576,Vanilla Sugar Cookies,0.125,1,0,Sugar free vanilla wafer cookies,https://images.openfoodfacts.net/images/products/006/731/200/5253/front_en.11.400.jpg,0.6792452830188679
+588,Special K Original Cereal,0.573170731707317,0,1,Special flakes original,https://images.openfoodfacts.net/images/products/405/648/947/9413/front_en.17.400.jpg,0.75
+589,Salsa Roja,0.7037037037037037,0,1,Salsa Roja,https://images.openfoodfacts.net/images/products/500/015/715/4019/front_en.3.400.jpg,1.0
+611,Uncured Hard Salami,0.6278528178854215,0,1,Uncured hard salami,https://images.openfoodfacts.net/images/products/001/786/977/7424/front_en.3.400.jpg,1.0
+618,Apple Sparkling Juice Beverage,0.0,1,0,100% Sparkling Apple Juice,https://images.openfoodfacts.net/images/products/600/104/800/0902/front_en.19.400.jpg,0.5714285714285714
+636,Red Raspberry Jam,0.10344827586206896,1,0,Red Raspberry Spread,https://images.openfoodfacts.net/images/products/008/438/095/7741/front_en.30.400.jpg,0.8108108108108109
+646,Organic Fruit Punch,0.5609756097560976,0,1,Organic Super Fruit Punch Juice Drink,https://images.openfoodfacts.net/images/products/065/762/201/1848/front_en.18.400.jpg,0.6785714285714286
+649,Classic coke,0.6295379537953796,0,1,Coke Classic,https://images.openfoodfacts.net/images/products/940/055/900/1014/front_en.5.400.jpg,0.5833333333333334
+651,Organic Salted Butter,0.5978051213834387,0,1,Organic Butter,https://images.openfoodfacts.net/images/products/500/043/644/9515/front_en.17.400.jpg,0.8
+665,Imitation Crabmeat,0.18181818181818182,1,0,Imitation Crabmeat,https://images.openfoodfacts.net/images/products/083/644/300/1508/front_fr.9.400.jpg,1.0
+666,Whole Wheat Loaves,0.772972972972973,0,1,Whole Wheat Loaves,https://images.openfoodfacts.net/images/products/062/798/726/9963/front_fr.3.400.jpg,1.0
+670,"Coconut Drink, Vanilla",0.5806451612903226,0,1,Coconut Drink Vanilla,https://images.openfoodfacts.net/images/products/008/425/322/5731/front_en.4.400.jpg,0.9767441860465116
+677,Peach Aloe Vera Drink,0.6944444444444444,0,1,"Aloe Vera Drink, Peach",https://images.openfoodfacts.net/images/products/076/189/863/1553/front_en.6.400.jpg,0.6976744186046512
+699,Sugo Rosa Pasta Sauce,0.5934579439252337,0,1,Sugo Rosa Pasta Sauce,https://images.openfoodfacts.net/images/products/006/665/280/4199/front_es.3.400.jpg,1.0
+701,Blueberry Blast Bar,0.0,1,0,Skout organic blueberry blast bars,https://images.openfoodfacts.net/images/products/089/706/000/2958/front_en.4.400.jpg,0.7169811320754716
+703,Traditional No Fat Refried Beans,0.5385572139303483,0,1,No fat traditional refried beans,https://images.openfoodfacts.net/images/products/004/430/010/6185/front_en.19.400.jpg,0.78125
+711,Vegetarian Brown  Gravy Mix,0.1415929203539823,1,0,Vegetarian brown gravy mix,https://images.openfoodfacts.net/images/products/008/983/620/0075/front_fr.3.400.jpg,0.9811320754716981
+713,Pink Moscato California,0.08823529411764706,1,0,Pink Moscato California,https://images.openfoodfacts.net/images/products/000/000/850/9822/front_en.3.400.jpg,1.0
+725,Ceylon Cinnamon,0.037037037037037035,1,0,Ceylon Cinnamon,https://images.openfoodfacts.net/images/products/008/983/619/4565/front_en.8.400.jpg,1.0
+735,Four Cheese Pizza Frozen Sandwiches,0.5547945205479452,0,1,Four cheese pizza sandwiches,https://images.openfoodfacts.net/images/products/004/369/531/6582/front_en.4.400.jpg,0.8888888888888888
+736,"Beer, IPA",0.6111111111111112,0,1,Punk IPA,https://images.openfoodfacts.net/images/products/505/602/544/0432/front_en.9.400.jpg,0.47058823529411764
+741,Bean Threads,0.6,0,1,Saifun Bean Threads,https://images.openfoodfacts.net/images/products/001/115/203/1941/front_en.5.400.jpg,0.7741935483870968
+756,Malt Vinegar & Sea Salt Kettle Cooked Potato Chips,0.6492146596858639,0,1,Sea Salt & Malt Vinegar Flavour Kettle Cooked Potato Chips,https://images.openfoodfacts.net/images/products/006/041/000/1783/front_en.7.400.jpg,0.7592592592592593
+758,No Sugar Added The Original Fudge Pops,0.5948275862068966,0,1,The Original Fudge Pops - No Sugar Added; Naturally,https://images.openfoodfacts.net/images/products/007/756/713/3229/front_en.5.400.jpg,0.5168539325842697
+762,100% Columbian Coffee,0.5789473684210527,0,1,100% Columbian coffee,https://images.openfoodfacts.net/images/products/002/550/020/5328/front_en.3.400.jpg,1.0
+769,Sliced American Cheese,0.5850860420650096,0,1,American Cheese,https://images.openfoodfacts.net/images/products/009/396/600/8456/front_en.3.400.jpg,0.8108108108108109
+780,Breadstick,0.7852664576802508,0,1,bread sticks,https://images.openfoodfacts.net/images/products/501/837/428/5577/front_en.76.400.jpg,0.9090909090909091
+788,XXX Acai Blueberry Pomegranate,0.6709470304975923,0,1,Xxx  açaí blueberry pomegranate,https://images.openfoodfacts.net/images/products/000/020/230/0612/front_en.3.400.jpg,0.9180327868852459
+804,Ratatouille,0.0,1,0,Ratatouille à la provençale,https://images.openfoodfacts.net/images/products/330/713/080/3004/front_fr.141.400.jpg,0.5789473684210527
+807,For Chicken Marinade,0.5333333333333333,0,1,Marinade for chicken,https://images.openfoodfacts.net/images/products/731/131/029/5752/front_fr.4.400.jpg,0.55
+809,Bolani Pumpkin Filled Flatbread,0.6344605475040258,0,1,Pumpkin Filled Flatbread,https://images.openfoodfacts.net/images/products/085/003/271/6062/front_en.3.400.jpg,0.8727272727272727
+818,Micro Craft Beer,0.7272727272727273,0,1,Micro IPA,https://images.openfoodfacts.net/images/products/071/523/505/9272/front_en.4.400.jpg,0.56
+820,Vanilla Almond Butter Squeeze,0.5620967741935484,0,1,Vanilla Almond Butter Squeeze Packs,https://images.openfoodfacts.net/images/products/089/445/500/0711/front_en.18.400.jpg,0.90625
+821,Cranberry Urinary Tract Health,0.05555555555555555,1,0,AZO Cranberry Urinary Tract Health,https://images.openfoodfacts.net/images/products/078/765/176/0230/front_en.5.400.jpg,0.9375
+834,Single Classic Canned Meat,0.7142857142857143,0,1,"Spam, single, classic",https://images.openfoodfacts.net/images/products/003/760/019/0671/front_en.21.400.jpg,0.5957446808510638
+839,Glass Bottles,0.7636363636363637,0,1,coke glass bottle,https://images.openfoodfacts.net/images/products/000/005/449/2509/front_fr.7.400.jpg,0.8
+852,Light String Cheese,0.6124721603563474,0,1,Light String Cheese,https://images.openfoodfacts.net/images/products/004/171/684/2942/front_en.84.400.jpg,1.0
+854,Traditional Red Miso,0.16352201257861634,1,0,Traditional Red Miso,https://images.openfoodfacts.net/images/products/002/354/740/0119/front_en.4.400.jpg,1.0
+872,Power Greens,0.696551724137931,0,1,Power Greens,https://images.openfoodfacts.net/images/products/001/111/004/7779/front_en.3.400.jpg,1.0
+875,Ginger Berry Kombucha,0.6037735849056604,0,1,Kombucha Ginger Berry,https://images.openfoodfacts.net/images/products/004/563/566/0700/front_en.9.400.jpg,0.5714285714285714
+876,Vitamin B6 100 mg,0.16666666666666666,1,0,Vitamin B-Pyridoxine 100 mg,https://images.openfoodfacts.net/images/products/083/500/300/3501/front_en.4.400.jpg,0.7272727272727273
+877,Ultra-Filtered Whole Milk,0.7832764505119454,0,1,Whole Ultra Filtered Milk,https://images.openfoodfacts.net/images/products/002/640/090/0740/front_en.4.400.jpg,0.72
+883,Peanut Butter Chocolate Chip Bar,0.7657657657657657,0,1,Peanut Butter Chocolate Chip Bars,https://images.openfoodfacts.net/images/products/002/190/812/2854/front_en.3.400.jpg,0.9846153846153847
+884,Dried Parsley Flakes,0.08682634730538923,1,0,Parsley Flakes,https://images.openfoodfacts.net/images/products/077/645/532/2041/front_en.9.400.jpg,0.8235294117647058
+889,Oatnut Bread,0.6748768472906403,0,1,Oatnut bread,https://images.openfoodfacts.net/images/products/007/341/095/7431/front_en.3.400.jpg,1.0
+907,Premium Sliced Bacon,0.5545679012345679,0,1,Premium Sliced Bacon,https://images.openfoodfacts.net/images/products/409/910/010/5636/front_en.10.400.jpg,1.0
+913,Dry Pasta Lasagne,0.15492957746478872,1,0,Lasagnes,https://images.openfoodfacts.net/images/products/000/002/041/1978/front_en.125.400.jpg,0.56
+919,Apricot Fruit Roll,0.631578947368421,0,1,Apricot mixed fruit roll,https://images.openfoodfacts.net/images/products/600/102/001/2565/front_en.3.400.jpg,0.8571428571428571
+920,Coconut Yogurt,0.6198923028191321,0,1,Vanilla Coconut Yoghurt,https://images.openfoodfacts.net/images/products/506/042/681/0084/front_en.21.400.jpg,0.7567567567567568
+935,Premium Apple Juice,0.5331010452961672,0,1,Premium Pressed Apple Juice,https://images.openfoodfacts.net/images/products/841/026/161/1112/front_fr.33.400.jpg,0.8260869565217391
+942,Echinacea & Elderberry Organic Herbal Tea,0.0,1,0,Echinacea Plus Elderberry,https://images.openfoodfacts.net/images/products/003/291/700/7407/front_en.9.400.jpg,0.6363636363636364
+945,Fruit Punch Juice Drink,0.5794871794871795,0,1,Organic Super Fruit Punch Juice Drink,https://images.openfoodfacts.net/images/products/065/762/201/1848/front_en.18.400.jpg,0.7666666666666667
+952,"Flaxseed Meal, Whole Ground",0.17774936061381075,1,0,Whole Ground Flaxseed Meal,https://images.openfoodfacts.net/images/products/003/997/802/3308/front_en.70.400.jpg,0.49056603773584906
+958,Almond Extract,0.04411764705882353,1,0,Almond Extract,https://images.openfoodfacts.net/images/products/000/000/173/2962/front_en.5.400.jpg,1.0
+964,Toothpicks,0.0,1,0,Toothpicks,https://images.openfoodfacts.net/images/products/409/920/005/1802/front_it.3.400.jpg,1.0
+973,8 X 6 Cutting Board,0.0,1,0,Cutting board oil,https://images.openfoodfacts.net/images/products/008/868/279/1218/front_en.3.400.jpg,0.7222222222222222
+983,Strawberry Pomegranate,0.14285714285714285,1,0,Corner plant-based strawberry & pomegranate,https://images.openfoodfacts.net/images/products/402/550/027/4801/front_en.14.400.jpg,0.676923076923077
+985,Peanut Butter Bars,0.5818181818181818,0,1,Peanut butter bars,https://images.openfoodfacts.net/images/products/505/595/870/5526/front_en.3.400.jpg,1.0
